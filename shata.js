@@ -107,5 +107,5 @@
 	user.innerHTML =name;
 	basic.innerHTML = "You Have Guessed";
 	num.innerHTML = useableresult;
-	about.innerHTML = "This Website Is Fully Hancrafted By Bijit. This Whole Hearted Effort Is Dedicated To My Friend Shubhajit Halder For Helping Me Understanding The Concept If You Like It Please Do Share.";
+	about.innerHTML = "This Website Is Fully Hancrafted By Bijit. If You Like It Please Do Share.";
 	}
