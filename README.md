@@ -1,3 +1,7 @@
+## Mind Detector
+- It is a mind detector game where you need to guess a number and need to choose from the box in which number is presented, and you will have the guessed number
+
+
 ## Basics of Git and GitHub
 
 ### Git & GitHub
@@ -29,7 +33,7 @@ Click on fork to create a copy of project to your account. This creates a separa
 
 You have forked the project you want to contribute to your github account. To get this project on your development machine we use clone command of git.
 
-`$ git clone https://github.com/SauravMukherjee44/Aec-Library-Website.git` <br/>
+`$ git clone https://github.com/Bijit-Mondal/mind_detector.git` <br/>
 Now you have the project on your local machine.
 
 <br />
@@ -39,7 +43,7 @@ Now you have the project on your local machine.
 Remote means the remote location of project on Github. By cloning, we have a remote called origin which points to your forked repository. Now we will add a remote to the original repository from where we had forked.
 
 `$ cd <your-forked-project-folder>`
-`$ git remote add upstream https://github.com/SauravMukherjee44/Aec-Library-Website.git` <br/>
+`$ git remote add upstream https://github.com/Bijit-Mondal/mind_detector.git` <br/>
 You will see the benefits of adding remote later.
 
 <br />
@@ -86,7 +90,4 @@ Good Luck for your journey
 
 
 
-© 2021 Saurav Mukherjee and contributors\
-This project is licensed under the [**MIT license**](https://github.com/SauravMukherjee44/Aec-Library-Website/blob/main/LICENSE).
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+© 2024 Bijit Mondal and contributors\
